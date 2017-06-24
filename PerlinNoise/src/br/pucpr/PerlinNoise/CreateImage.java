@@ -1,6 +1,5 @@
-package br.pucpr.PerlinNoise; /**
- * Created by Lukas on 23/06/2017.
- */
+package br.pucpr.PerlinNoise;
+
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;

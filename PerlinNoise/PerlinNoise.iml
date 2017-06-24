@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="JOML" level="application" />
+    <orderEntry type="library" name="OpenGL" level="application" />
   </component>
 </module>
